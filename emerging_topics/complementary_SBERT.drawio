@@ -249,6 +249,9 @@
         <mxCell id="9Sx3qytytTcBNsv8R5io-75" value="select this as mate!" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1413" y="32" width="92" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="9Sx3qytytTcBNsv8R5io-77" value="we trained" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="942" y="65" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
