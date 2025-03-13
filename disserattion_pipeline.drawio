@@ -60,13 +60,13 @@
         <mxCell id="4sY1oFhWT7aM1cHkjKMV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4sY1oFhWT7aM1cHkjKMV-13" target="4sY1oFhWT7aM1cHkjKMV-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4sY1oFhWT7aM1cHkjKMV-13" value="long term loss" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4sY1oFhWT7aM1cHkjKMV-13" value="long-term loss" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="640" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4sY1oFhWT7aM1cHkjKMV-14" value="long term&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4sY1oFhWT7aM1cHkjKMV-14" value="long-term&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="50" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4sY1oFhWT7aM1cHkjKMV-15" value="short term" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4sY1oFhWT7aM1cHkjKMV-15" value="short-term" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4sY1oFhWT7aM1cHkjKMV-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4sY1oFhWT7aM1cHkjKMV-1" target="4sY1oFhWT7aM1cHkjKMV-18">
@@ -91,7 +91,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4sY1oFhWT7aM1cHkjKMV-22" value="process to&amp;nbsp;&lt;div&gt;scene flow&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="4sY1oFhWT7aM1cHkjKMV-22" value="short-term loss" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="640" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4sY1oFhWT7aM1cHkjKMV-27" value="(preprocessed)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
